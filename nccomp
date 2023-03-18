@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -std=gnu99 -Wall $1.c -lncurses -lm -o $1
